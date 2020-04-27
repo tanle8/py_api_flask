@@ -1,0 +1,8 @@
+Flask
+flask_restful
+pymongo
+bcrypt
+numpy
+requests
+tensorflow==1.5
+
